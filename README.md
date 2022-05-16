@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [camera]()
 - [react-native-user-profile](modules/user-profile)
+- [django-push-notifications](backend/modules/push-notifications)
 
 # Getting started: Frontend
 
