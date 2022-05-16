@@ -55,6 +55,7 @@ As a result, Crowdbotics can generate new applications automatically in a standa
 ## Modules (THIS SECTION IS AUTO-GENERATED, PLEASE DO NOT EDIT)
 
 This section will show any installed modules you add from the Storyboard Modules section.
+- [payments]()
 
 # Getting started: Frontend
 
